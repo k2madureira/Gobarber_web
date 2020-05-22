@@ -4,7 +4,6 @@
 > Bootcamp RocketSeat !🚀
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/rocketseat/react-native-template-rocketseat-advanced.svg)](https://github.com/k2madureira/Gobarber_web/commits/master)
-
 [![NPM](https://img.shields.io/npm/l/react-native-template-rocketseat-advanced.svg)](https://choosealicense.com/licenses/mit)
 
 ## Sobre o Projeto 
